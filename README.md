@@ -6,20 +6,21 @@ Auto Tor IP Changer is a tool that automates changing your IP address using the 
 Follow these steps to install and use the Auto Tor IP Changer:
 1. Clone the Repository
 
-sudo su
-git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
+-sudo su
+
+-git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
 
 2. Navigate to the Directory
 
-cd Auto_Tor_IP_changer
+-cd Auto_Tor_IP_changer
 
 3. Make the Install Script Executable
 
-chmod +x install.py
+-chmod +x install.py
 
 4. Run the Install Script
 
-python3 install.py
+-python3 install.py
 
 # Potential Use Cases
 Privacy Protection:
